@@ -5,6 +5,9 @@
     * Apresentar os dados requisitados no layout
 
 ## Instruções
+
+As imagens que não estiverem no cybercook.json podem ser retiradas diretamente do PSD.
+
 Clone este projeto
 
 ```sh
@@ -29,7 +32,7 @@ Após concluir subir o código no [Github](https://github.com) e enviar o link p
 
  - Sêmantica web
  - Utilizar algum pré-processador CSS (Sass, Less, Stylus...)
- - Responsivo
+ - Responsivo (adaptar o layout do desktop para o mobile)
  - Crossbrowser
  - Ser fiel ao PSD
  - Não usar Bootstrap ou outro framework para a interface (somente biblioteca para grid é permitido)
