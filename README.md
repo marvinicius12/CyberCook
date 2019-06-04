@@ -26,7 +26,7 @@ E rode a aplicação
 npm start
 ```
 
-Após concluir subir o código no [Github](https://github.com) e enviar o link para nagamuta@e-midia.com
+Após concluir subir o código no [Github](https://github.com) e enviar o link para rodrigo.zani@e-midia.com
 
 ## Requisitos obrigatórios
 
